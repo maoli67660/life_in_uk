@@ -4,80 +4,39 @@
 
 ## Test - 1
 
-**Who was reigning in England when Wales became formally united with England by the Act for the Government of Wales?**
-
-Henry VIII
-
-**Which of the following is NOT a fundamental principle of British life?**
-
-Autocracy  独裁
-
+ 
 **Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?**
+
 Sir Steve Redgrave
-
-**What is the name of the centrepiece to the Remembrance Day service located in Whitehall, London?**
-
-Cenotaph
-
-**When did the Wars of the Roses start?**
-
-1455
 
 **How many members does the Scottish Parliament have?**
 
 129
 
-**What does the term ‘coalition’ refer to?**
-
-If no political party wins a majority, two parties may join and govern together
-
 **When did the UK formally leave the European Union?**
+
 31 January 2020
 
+
 ## Test - 2
-
-**Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?**
-The Crown Court
-
-**What is the name of the best preserved prehistoric village in northern Europe and which origin traces back to the Stone Age?**
-
-Skara Brae
 
 **When was the National Trust founded?**
 
 1895
 
-**After the Black Death, new social classes appeared in England, including owners of large areas of land known as:**
-
-Gentry
-
-**Elizabeth I was the younger daughter of which King?**
-
-Henry VIII
-
 **Which of the following operas was written by Gilbert and Sullivan?**
 
 The Mikado
 
-**Where is Loch Lomond and the Trossachs National Park located?**
-
-West of Scotland
-
-**By what TWO other names is the Church of England known?**
-
-The Anglican Church + The Episcopal Church
 
 **Who was the first British Prime Minister?**
 
-Sir Robert Walpole
+Sir Robert Walpole 罗伯特·沃波尔
 
 **What day does Lent start?**
 
-On Ash Wednsday
+On Ash Wednsday 圣灰星期三
 
-**How old do you need to be to apply for a free TV licence?**
-
-75
 
 **When did the Conservative government called a referendum on the UK’s membership of the European Union?**
 
@@ -91,9 +50,6 @@ Dame Kelly Holmes
 
 County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court.
 
-**What is the name of the building where the Scottish Parliament meet?**
-
-Holyrood
 
 **Who was Robert Burns?**
 
@@ -109,32 +65,15 @@ Known in Scotland as ‘The Bard’, Robert Burns was a **Scottish poet**.
 
 Dame Ellen MacArthur
 
-**What are Welsh cakes made of?**
-
-Flour, dried fruits and spices
-
-**What is the relationship between the monarch and the government?**
-
-Advise, warn and encourage the government’s decisions
-
-**The UK is a ‘constitutional monarchy’**   --> Yes
-Francis Crick
-
-**When does Lent take place?**   大斋期， 在复活节之前禁食40天
 
 **Which of the following national galleries is NOT located in London?**
 
-The national musemu
-
-**How much can you be fined if you watch TV but do not have a TV licence?**
+The national musemu 
 
 **How old is the clock at the Houses of Parliament in London, also known as ‘Big Ben’?**
 
 150 years old
 
-**The small claims procedure is used in England and Wales for minor disputes for:**
-
-10k
 
 Rose War  持续30年 1455-1485年
 
@@ -162,43 +101,23 @@ November or December
 
 Best album from the UK and Ireland
 
-**Who was Boudicca?**
-
-One of the tribal leaders who fought against the Romans
-
-**Which TWO of the following water sports are popular in the UK?**
-
-Rowing, Sailing
 
 **According to the 2011 Census, what percentage of the population identified themselves as Muslim?**
 
 4.8%
 
-**How often are elections held for the Welsh government?**
-
-England 5 year ？？ 有真争议。  Welsh官方说的是5年
-
 **Who was the British Minister after Margaret Thatcher?**
 
 John Major
 
-**What name is given to the person appointed by local authorities to be the ceremonial leader of a particular council?**
-
-Mayor
-
-**What is the meaning of the term ‘first past the post’?**
-
-简单多数候选人获胜
-
-**Which court deals with the MOST serious cases in Scotland, such as murder?**
-
-The High Court
 
 **Which British artist was a portrait painter who often painted people in country or garden scenarios?**
 
 Thomas Gainsborough
 
 **During which religious celebration do Muslims sacrifice an animal to eat?**
+
+
 
 ## Test - 5 
 
@@ -242,17 +161,6 @@ Individual liberty
 
 Mozambique
 
-**Who has to pay national insurance contributions in the UK?**
-
-who work
-
-**A good way to support your local community is to shop for products locally.**
-
-True
-
-**Where is the centrepiece to the Remembrance Day service known as Cenotaph located?**
-
-Whitehall, London
 
 ## Test - 6
 
