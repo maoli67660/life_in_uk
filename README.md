@@ -33,10 +33,6 @@ The Mikado
 
 Sir Robert Walpole 罗伯特·沃波尔
 
-**What day does Lent start?**
-
-On Ash Wednsday 圣灰星期三
-
 
 **When did the Conservative government called a referendum on the UK’s membership of the European Union?**
 
@@ -70,10 +66,6 @@ Dame Ellen MacArthur
 
 The national musemu 
 
-**How old is the clock at the Houses of Parliament in London, also known as ‘Big Ben’?**
-
-150 years old
-
 
 Rose War  持续30年 1455-1485年
 
@@ -85,26 +77,9 @@ Chancellor of the Exchequer（财政大臣）
 
 Lord Chancellor（大法官，司法大臣）
 
-**Who invaded England after the Romans?**
-
-The Anglo-Saxons
-
-
 
 ## Test - 4
 
-**When is the Jewish celebration known as Hanukkah normally celebrated?**
-
-November or December
-
-**What musical award is given during the Mercury Music Prize?**
-
-Best album from the UK and Ireland
-
-
-**According to the 2011 Census, what percentage of the population identified themselves as Muslim?**
-
-4.8%
 
 **Who was the British Minister after Margaret Thatcher?**
 
@@ -117,6 +92,7 @@ Thomas Gainsborough
 
 **During which religious celebration do Muslims sacrifice an animal to eat?**
 
+Eid al-Adha
 
 
 ## Test - 5 
@@ -125,9 +101,6 @@ Thomas Gainsborough
 
 Berkshire
 
-**Who wrote ‘The Lord of the Rings’?**
-
-JRR Tolkien
 
 **Which court deals with minor criminal cases in England, Wales and Northern Ireland?**
 
@@ -141,9 +114,6 @@ round barrows
 
 Ice dancing
 
-**Which flower is associated with Scotland?**
-
-Thistle
 
 **Members of the Welsh government are elected every four years on the basis of:**
 
@@ -153,9 +123,6 @@ Proportional representation
 
 Sir Christopher Wren
 
-**Which of the following is a fundamental principle of life in the UK?**
-
-Individual liberty
 
 **Which of the following countries belongs to the Commonwealth?**
 
@@ -179,41 +146,21 @@ Isambard Kingdom Brunel
 
 400 milion
 
-**Which of the following countries was NOT part of the Allied Powers during the First World War?**
-
-Bulgaria   保加利亚
-
-**How many times have the Olympic Games been hosted in the UK?**
-
-3
 
 **When were films first shown publicly in the UK?**
 
 1896
 
-**What is the name of the building where the Welsh government members meet?**
-
-Senedd.    北爱是Stormont， 苏格兰Holyrood
-
-**Florence Nightingale was known for her work on:**  弗洛伦丝·南丁格尔
-
-The development of nursing in the UK
 
 **Which Act abolished slavery throughout the British Empire in 1833?**
 
 The Emancipation Act
 
-**How long does Diwali last for?**
-
-1 week
 
 **Who became King of Britain when Queen Anne died in 1714?**
 
 George I
 
-**What was the population of the UK in 2005?**
-
-60 million
 
 **When did the ‘Habeas Corpus Act’ become law?**
 
@@ -225,9 +172,6 @@ Alexander Fleming
 
 ## Test - 7
 
-**How many members does a jury have in England, Wales and Northern Ireland?**
-
-12
 
 **Which TWO films were directed by David Lean?**
 
@@ -237,37 +181,20 @@ Brief Encounter， Lawrence of Arabia
 
 The SEC Centre
 
-**How many British casualties were recorded during the first day of the British attack of the Somme in July 1916 during the First World War?**
-
-60k
-
 **What was the population of the UK in 1801?**
 
 8 million
 
-**What is the main function of the Council of Europe?**
-
-Protect human rights
 
 **Which Scottish physician and researcher co-discovered the insulin used to treat diabetes?**
 
 John McLeod 
 
-**Sir Alfred Hitchcock was an important British film director ** 阿尔弗雷德·希区柯克爵士
-
-True
-
-**Who was voted the greatest Briton of all time in 2002?**
-
-Winston Churchill
 
 **When is St George’s Day, patron of England?**
 
 23rd of April
 
-**Which TWO of the following social laws were liberalised during the ‘Swinging Sixties’? **
-
-The law of abortion,   the law of divorce
 
 **Who was the mother of Elizabeth I?**
 
@@ -291,10 +218,6 @@ The cabinet, The judiciary, The police
 
 Sir Christopher Cockerell
 
-**Which court deals with serious criminal offences in Wales?**
-
-the Crown Court
-
 **When were Protection Orders to protect a person from being forced into a marriage introduced in Scotland?**
 
 2011
@@ -307,25 +230,11 @@ The Blitz
 
 George Frederick Handel
 
-**When did hereditary peers lose the automatic right to attend the House of Lords?**
-
-1999
-
-**Which of the following is England’s largest national park?**
-
-lake district
 
 **Where was Emmeline Pankhurst born?** 埃米琳·潘克赫斯特  英国政治活动家，妇女参政
 
 Manchester
 
-**Which of the following is a traditional English food?**
-
-Roast beef
-
-**What are pantomimes based on? **  圣诞儿童剧
-
-Fairy stories
 
 ## Test - 9 
 
@@ -345,13 +254,6 @@ Mike Newell
 
 The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
 
-**Which is the oldest tennis tournament in the world?** 
-
-The Wimbledon Championships
-
-**Which of the following is a British invention of the 20th century?**
-
-The Harrier jump jet  鹞式攻击机
 
 **During the 17th century there were two main groups in Parliament, which were known as:**
 
@@ -370,6 +272,7 @@ Dame Agatha Christie
 The Act of Union
 
 **When was the voting age reduced to 18 for men and women?**
+
 1969
 
 **When did the first farmers arrive in Britain?**
@@ -382,9 +285,6 @@ The Act of Union
 
 Auld Lang Syne
 
-**What day is Halloween celebrated?**
-
-31st of October
 
 **Who was the first British distance runner to win a gold medal in the Olympic games in the 10,000 metres?**
 
@@ -405,13 +305,6 @@ William the Conqueror
 **Who composed a suite of pieces themed around the planets and the solar system called ‘The Planets’?**
 
 Gustav Holst
-
-**What was the population of the UK in 1998?**
-
-57 million
-
-**How old Queen Victoria?**
-In 1837, Queen Victoria became queen of the UK at the age of **18**.
 
 **Who forms the judiciary?**
 
@@ -442,6 +335,7 @@ By-election
 Jobseeker’s Allowance , A full state retirement pension
 
 
+--------------------------------------------------------------------------------
 
 ## Test - 11
 
